@@ -1,0 +1,20 @@
+{
+  "name": "IPL Dark v2",
+  "dataColors": [
+    "#FF6B1A",
+    "#FFC233",
+    "#4DA3FF",
+    "#9DB4D0",
+    "#E5533D",
+    "#3CC4B0",
+    "#A07BE0",
+    "#F2F2F2"
+  ],
+  "background": "#13294B",
+  "backgroundLight": "#1B3A66",
+  "backgroundNeutral": "#2A4A7A",
+  "foreground": "#FFFFFF",
+  "foregroundNeutralSecondary": "#C9D6E8",
+  "foregroundNeutralTertiary": "#3A5075",
+  "tableAccent": "#FF6B1A"
+}
